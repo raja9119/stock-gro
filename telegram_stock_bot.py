@@ -758,7 +758,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-      "(KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36")
 
 NAMES = ("Arjun", "Rohan", "Kabir", "Aryan", "Vivaan", "Aditya", "Ishaan",
          "Dhruv", "Reyansh", "Ananya")
